@@ -1,8 +1,11 @@
 # BUG-008: problem_user не может ввести Last Name, текст попадает в First Name
 
 **Severity:** Major
+
 **Priority:** High
+
 **User:** problem_user
+
 **Environment:** Chrome 120, Windows 11, saucedemo.com
 
 ## Description
