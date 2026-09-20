@@ -1,8 +1,11 @@
 # BUG-007: problem_user — все товары имеют одинаковое фото
 
 **Severity:** Minor
+
 **Priority:** Medium
+
 **User:** problem_user
+
 **Environment:** Chrome 120, Windows 11, saucedemo.com
 
 ## Description
