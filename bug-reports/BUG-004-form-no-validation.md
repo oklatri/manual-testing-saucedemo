@@ -1,8 +1,11 @@
 # BUG-004: Форма оформления заказа не валидирует имя и фамилию
 
 **Severity:** Major
+
 **Priority:** High
+
 **User:** standard_user
+
 **Environment:** Chrome 120, Windows 11, saucedemo.com
 
 ## Description
