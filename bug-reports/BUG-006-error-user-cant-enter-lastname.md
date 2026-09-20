@@ -1,8 +1,11 @@
 # BUG-006: error_user не может ввести Last Name, но Continue активен
 
 **Severity:** Major
+
 **Priority:** High
+
 **User:** error_user
+
 **Environment:** Chrome 120, Windows 11, saucedemo.com
 
 ## Description
