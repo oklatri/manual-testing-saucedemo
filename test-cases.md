@@ -14,6 +14,7 @@
 
 **Expected result:** Открывается страница с товарами
 **Actual result:** Открывается страница с товарами
+
 **Status:** ✅ Passed
 
 ---
@@ -32,6 +33,7 @@
 
 **Expected result:** Ошибка «Sorry, this user has been locked out»
 **Actual result:** Ошибка «Sorry, this user has been locked out»
+
 **Status:** ✅ Passed
 
 ---
@@ -50,6 +52,7 @@
 
 **Expected result:** Открывается страница с товарами
 **Actual result:** Открывается страница с товарами, но все фото одинаковые (баг)
+
 **Status:** ⚠️ Passed with issues (см. BUG-007)
 
 ---
@@ -68,6 +71,7 @@
 
 **Expected result:** Страница грузится за 1–2 секунды
 **Actual result:** Страница грузится 10+ секунд (баг)
+
 **Status:** ⚠️ Passed with issues (см. BUG-009)
 
 ---
@@ -86,6 +90,7 @@
 
 **Expected result:** Открывается страница с товарами
 **Actual result:** Открывается страница с товарами
+
 **Status:** ✅ Passed
 
 ---
@@ -104,4 +109,5 @@
 
 **Expected result:** Открывается страница с товарами
 **Actual result:** Открывается страница с товарами, но цены меняются (баг)
+
 **Status:** ⚠️ Passed with issues (см. BUG-010)
