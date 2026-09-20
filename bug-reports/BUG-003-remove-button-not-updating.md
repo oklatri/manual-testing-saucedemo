@@ -1,8 +1,11 @@
 # BUG-003: Кнопка «Remove» не меняется на «Add to cart» после Reset App State и смены фильтров
 
 **Severity:** Major
+
 **Priority:** High
+
 **User:** standard_user
+
 **Environment:** Chrome 120, Windows 11, saucedemo.com
 
 ## Description
