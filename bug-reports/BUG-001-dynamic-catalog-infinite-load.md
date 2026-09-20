@@ -7,8 +7,6 @@
 **User:** standard_user
 
 **Environment:** Chrome 120, Windows 11, saucedemo.com
-**Related test case:** —
-
 ## Description
 При открытии пункта **Dynamic Catalog** в гамбургер-меню страница **бесконечно подгружает** одни и те же товары. Список не заканчивается, товары повторяются.
 
