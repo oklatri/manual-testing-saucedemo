@@ -1,10 +1,12 @@
 # BUG-002: About возвращает 403 Forbidden
 
 **Severity:** Minor
-**Priority:** Low
-**User:** standard_user
-**Environment:** Chrome 120, Windows 11, saucedemo.com
 
+**Priority:** Low
+
+**User:** standard_user
+
+**Environment:** Chrome 120, Windows 11, saucedemo.com
 ## Description
 При нажатии на пункт **About** в гамбургер-меню открывается страница с ошибкой **403 Forbidden** (`saucelabs.com/403`).
 
