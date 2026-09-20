@@ -1,8 +1,11 @@
 # BUG-009: performance_glitch_user — медленная загрузка страниц
 
 **Severity:** Major
+
 **Priority:** Medium
+
 **User:** performance_glitch_user
+
 **Environment:** Chrome 120, Windows 11, saucedemo.com
 
 ## Description
@@ -18,6 +21,3 @@
 
 ## Actual result
 Страница грузится 10+ секунд, высокая нагрузка на CPU
-
-## Attachments
-- [Скриншот](../screenshots/screenshot-bug-009-performance.png)
