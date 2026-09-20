@@ -1,8 +1,11 @@
 # BUG-001: Dynamic Catalog грузит бесконечно повторяющиеся товары
 
 **Severity:** Minor
+
 **Priority:** Low
+
 **User:** standard_user
+
 **Environment:** Chrome 120, Windows 11, saucedemo.com
 **Related test case:** —
 
