@@ -1,8 +1,11 @@
 # BUG-010: visual_user — цены меняются при каждом обновлении страницы
 
 **Severity:** Major
+
 **Priority:** High
+
 **User:** visual_user
+
 **Environment:** Chrome 120, Windows 11, saucedemo.com
 
 ## Description
@@ -21,4 +24,6 @@
 Цена каждый раз другая ($31.35, $85.28 и т.д.)
 
 ## Attachments
-- [Скриншот](../screenshots/screenshot-bug-010-visual-user-prices.png)
+- [Скриншот](../screenshots/screenshot-bug-010-visual-user-prices-1.png)
+- [Скриншот](../screenshots/screenshot-bug-010-visual-user-prices-2.png)
+- [Скриншот](../screenshots/screenshot-bug-010-visual-user-prices-3.png)
