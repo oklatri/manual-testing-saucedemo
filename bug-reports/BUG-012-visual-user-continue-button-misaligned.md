@@ -1,8 +1,11 @@
 # BUG-012: visual_user — кнопка Continue смещена на странице Checkout
 
 **Severity:** Minor
+
 **Priority:** Low
+
 **User:** visual_user
+
 **Environment:** Chrome 120, Windows 11, saucedemo.com
 
 ## Description
