@@ -1,6 +1,7 @@
 # BUG-005: Можно оформить заказ с пустой корзиной
 
 **Severity:** Major
+
 **Priority:** High
 **User:** standard_user
 **Environment:** Chrome 120, Windows 11, saucedemo.com
