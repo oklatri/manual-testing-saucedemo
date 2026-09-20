@@ -3,7 +3,9 @@
 **Severity:** Major
 
 **Priority:** High
+
 **User:** standard_user
+
 **Environment:** Chrome 120, Windows 11, saucedemo.com
 
 ## Description
