@@ -3,6 +3,7 @@
 ## TC-001: Логин standard_user
 
 **Preconditions:** Открыт saucedemo.com
+
 **Test data:**
 - Username: `standard_user`
 - Password: `secret_sauce`
