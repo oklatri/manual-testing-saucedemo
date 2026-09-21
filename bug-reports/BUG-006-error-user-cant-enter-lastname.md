@@ -30,3 +30,6 @@
 
 ## Attachments
 - [Скриншот](../screenshots/screenshot-bug-006-error-user-lastname.png)
+
+## Note
+Это **известное поведение** демо-аккаунта `error_user`. SauceDemo **специально** имитирует ошибки формы для тестирования. Не является **реальным** дефектом.
