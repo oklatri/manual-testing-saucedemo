@@ -24,3 +24,6 @@
 
 ## Attachments
 - [Скриншот](../screenshots/screenshot-bug-007-problem-user-photos.png)
+
+## Note
+Это **известное поведение** демо-аккаунта `problem_user`. SauceDemo **специально** показывает одинаковые фото для тестирования. Не является **реальным** дефектом.
