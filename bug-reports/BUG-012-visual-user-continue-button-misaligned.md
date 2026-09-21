@@ -25,3 +25,6 @@
 
 ## Attachments
 - [Скриншот](../screenshots/screenshot-bug-012-continue-button.png)
+
+## Note
+Это **известное поведение** демо-аккаунта `visual_user`. SauceDemo **специально** имитирует визуальные баги. Не является **реальным** дефектом.
