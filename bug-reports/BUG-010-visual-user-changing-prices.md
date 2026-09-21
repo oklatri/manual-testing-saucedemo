@@ -27,3 +27,6 @@
 - [Скриншот](../screenshots/screenshot-bug-010-visual-user-prices-1.png)
 - [Скриншот](../screenshots/screenshot-bug-010-visual-user-prices-2.png)
 - [Скриншот](../screenshots/screenshot-bug-010-visual-user-prices-3.png)
+
+## Note
+Это **известное поведение** демо-аккаунта `visual_user`. SauceDemo **специально** имитирует визуальные баги. Не является **реальным** дефектом.
