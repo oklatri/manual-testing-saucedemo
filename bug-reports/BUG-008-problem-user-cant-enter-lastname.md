@@ -26,3 +26,6 @@
 
 ## Attachments
 - [Скриншот](../screenshots/screenshot-bug-008-problem-user-lastname.png)
+
+## Note
+Это **известное поведение** демо-аккаунта `problem_user`. SauceDemo **специально** имитирует ошибки формы. Не является **реальным** дефектом.
