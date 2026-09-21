@@ -24,3 +24,6 @@
 
 ## Attachments
 - [Скриншот](../screenshots/screenshot-bug-011-cart-icon.png)
+
+## Note
+Это **известное поведение** демо-аккаунта `visual_user`. SauceDemo **специально** имитирует визуальные баги. Не является **реальным** дефектом.
