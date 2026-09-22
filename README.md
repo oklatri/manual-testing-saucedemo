@@ -17,6 +17,7 @@ SauceDemo — учебный интернет-магазин, созданный
 - `screenshots/` — скриншоты
 - `test-plan.md` — тест-план проекта
 - `jira-workflow.md` — процесс работы с багами (имитация Jira)
+- `test-design.md` — техники тест-дизайна (EP, BVA, Decision Table, State Transition, Error Guessing, Decomposition)
 
 ## Тестовые аккаунты
 | Логин | Пароль | Что имитирует |
