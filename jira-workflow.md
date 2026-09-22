@@ -33,6 +33,7 @@
 3. Нажать Dynamic Catalog
 
 **Expected:** Ограниченный список товаров
+
 **Actual:** Бесконечная загрузка
 
 **Attachments:** screenshot-bug-001-dynamic-catalog.png
