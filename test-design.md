@@ -1,7 +1,7 @@
 # Test Design — SauceDemo
 
 ## Что это
-Техники тест-дизайна, применённые к SauceDemo: Equivalence Partitioning (EP) и Boundary Value Analysis (BVA).
+Техники тест-дизайна, применённые мной к SauceDemo.
 
 ## 1. Equivalence Partitioning (EP) — классы эквивалентности
 
