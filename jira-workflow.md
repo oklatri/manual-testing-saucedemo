@@ -9,12 +9,19 @@
 ## Пример тикета
 
 **ID:** BUG-001
+
 **Summary:** Dynamic Catalog грузит бесконечно
+
 **Type:** Bug
+
 **Priority:** Low
+
 **Status:** Open
+
 **Reporter:** Сергей (QA)
+
 **Assignee:** —
+
 **Environment:** Chrome 120, Windows 11
 
 **Description:**
