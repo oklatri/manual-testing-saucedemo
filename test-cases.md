@@ -352,3 +352,70 @@
 
 **Actual result:** Совпадает с ожидаемым
 **Status:** ✅ Passed
+
+---
+
+## TC-016: Корзина отображает добавленные товары
+
+**Preconditions:** Открыт saucedemo.com
+
+**Test data:**
+- Username: `standard_user`
+- Password: `secret_sauce`
+- Товары: Sauce Labs Backpack, Sauce Labs Bike Light
+
+**Steps:**
+1. Ввести username
+2. Ввести password
+3. Нажать Login
+4. Добавить Sauce Labs Backpack в корзину
+5. Добавить Sauce Labs Bike Light в корзину
+6. Перейти в корзину (иконка в правом верхнем углу)
+7. Посмотреть на список товаров
+
+**Expected result:**
+- В корзине **2** товара
+- Товары: Sauce Labs Backpack, Sauce Labs Bike Light
+
+**Actual result:**
+- В корзине **2** товара
+- Товары: Sauce Labs Backpack, Sauce Labs Bike Light
+
+**Status:** ✅ Passed
+
+---
+
+## TC-017: Логин с невалидными данными
+
+**Preconditions:** Открыт saucedemo.com
+
+**Test data:**
+- Username: `invalid_user`
+- Password: `wrong_password`
+
+**Steps:**
+1. Ввести username
+2. Ввести password
+3. Нажать Login
+
+**Expected result:** Ошибка «Username and password do not match»
+**Actual result:** Ошибка «Username and password do not match»
+**Status:** ✅ Passed
+
+---
+
+## TC-018: Логин с пустыми полями
+
+**Preconditions:** Открыт saucedemo.com
+
+**Test data:**
+- Username: (пусто)
+- Password: (пусто)
+
+**Steps:**
+1. Оставить поля пустыми
+2. Нажать Login
+
+**Expected result:** Ошибка «Username is required»
+**Actual result:** Ошибка «Username is required»
+**Status:** ✅ Passed
