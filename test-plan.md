@@ -31,8 +31,8 @@
 - **Регрессионное** — перепроверка после изменений.
 
 ## 5. Тестовое окружение
-- **ОС:** Windows 11
-- **Браузер:** Chrome 120
+- **ОС:** Windows 10 22H2
+- **Браузер:** Yandex Browser 150
 - **Инструменты:** DevTools
 - **Тестовые аккаунты:** `standard_user`, `locked_out_user`, `problem_user`, `performance_glitch_user`, `error_user`, `visual_user`
 - **Пароль для всех:** `secret_sauce`
