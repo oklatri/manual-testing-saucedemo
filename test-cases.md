@@ -399,7 +399,9 @@
 3. Нажать Login
 
 **Expected result:** Ошибка «Username and password do not match»
+
 **Actual result:** Ошибка «Username and password do not match»
+
 **Status:** ✅ Passed
 
 ---
@@ -417,5 +419,7 @@
 2. Нажать Login
 
 **Expected result:** Ошибка «Username is required»
+
 **Actual result:** Ошибка «Username is required»
+
 **Status:** ✅ Passed
