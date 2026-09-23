@@ -6,7 +6,7 @@
 
 **User:** standard_user
 
-**Environment:** Chrome 120, Windows 11, saucedemo.com
+**Environment:** Yandex Browser 150, Windows 10 22H2, saucedemo.com
 
 ## Description
 После добавления товара в корзину кнопка меняется на **«Remove»**. Если затем нажать **Reset App State** в гамбургер-меню или сменить **фильтр** (например, Price high to low) — товары пропадают из корзины, но кнопки **остаются «Remove»** вместо «Add to cart».

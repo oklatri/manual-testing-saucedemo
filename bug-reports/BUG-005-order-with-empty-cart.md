@@ -6,7 +6,7 @@
 
 **User:** standard_user
 
-**Environment:** Chrome 120, Windows 11, saucedemo.com
+**Environment:** Yandex Browser 150, Windows 10 22H2, saucedemo.com
 
 ## Description
 Система позволяет оформить заказ, когда корзина **пуста**. Приложение должно **блокировать** кнопку Checkout или показывать ошибку «Корзина пуста».

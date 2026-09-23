@@ -6,7 +6,7 @@
 
 **User:** performance_glitch_user
 
-**Environment:** Chrome 120, Windows 11, saucedemo.com
+**Environment:** Yandex Browser 150, Windows 10 22H2, saucedemo.com
 
 ## Description
 При логине под `performance_glitch_user` страницы **грузятся значительно дольше обычного** — 10+ секунд вместо 1–2. Также наблюдается **высокая нагрузка на CPU** и подвисания браузера.

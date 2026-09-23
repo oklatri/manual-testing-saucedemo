@@ -6,7 +6,7 @@
 
 **User:** problem_user
 
-**Environment:** Chrome 120, Windows 11, saucedemo.com
+**Environment:** Yandex Browser 150, Windows 10 22H2, saucedemo.com
 
 ## Description
 При оформлении заказа под `problem_user` поле **Last Name не принимает ввод**. Буквы, которые пользователь печатает в поле Last Name, **попадают в поле First Name**, а Last Name остаётся пустым. Появляется ошибка «Error: Last Name is required».

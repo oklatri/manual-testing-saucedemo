@@ -6,7 +6,7 @@
 
 **User:** visual_user
 
-**Environment:** Chrome 120, Windows 11, saucedemo.com
+**Environment:** Yandex Browser 150, Windows 10 22H2, saucedemo.com
 
 ## Description
 При логине под `visual_user` **цены товаров меняются** при каждом обновлении страницы (F5). Например, Backpack: $63.26 → $31.35 → $85.28. Цены **не должны** меняться сами по себе.

@@ -6,7 +6,7 @@
 
 **User:** visual_user
 
-**Environment:** Chrome 120, Windows 11, saucedemo.com
+**Environment:** Yandex Browser 150, Windows 10 22H2, saucedemo.com
 
 ## Description
 При логине под `visual_user` **значок корзины** в правом верхнем углу **смещён** от своего обычного положения. Визуально не совпадает с расположением у `standard_user`.

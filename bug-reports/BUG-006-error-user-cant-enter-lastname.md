@@ -6,7 +6,7 @@
 
 **User:** error_user
 
-**Environment:** Chrome 120, Windows 11, saucedemo.com
+**Environment:** Yandex Browser 150, Windows 10 22H2, saucedemo.com
 
 ## Description
 При оформлении заказа под `error_user` поле **Last Name не принимает ввод**. При этом кнопка **Continue остаётся активной**, и пользователь может перейти на следующий шаг. На шаге подтверждения кнопка **Finish не работает**.

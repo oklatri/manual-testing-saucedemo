@@ -6,7 +6,7 @@
 
 **User:** standard_user
 
-**Environment:** Chrome 120, Windows 11, saucedemo.com
+**Environment:** Yandex Browser 150, Windows 10 22H2, saucedemo.com
 
 ## Description
 Форма оформления заказа принимает **невалидные данные** в полях First Name и Last Name. Имя и фамилия должны содержать **только буквы**, но форма принимает **цифры**, **специальные символы** и **пробелы**.

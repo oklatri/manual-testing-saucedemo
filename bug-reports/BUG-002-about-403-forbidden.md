@@ -6,7 +6,7 @@
 
 **User:** standard_user
 
-**Environment:** Chrome 120, Windows 11, saucedemo.com
+**Environment:** Yandex Browser 150, Windows 10 22H2, saucedemo.com
 ## Description
 При нажатии на пункт **About** в гамбургер-меню открывается страница с ошибкой **403 Forbidden** (`saucelabs.com/403`).
 

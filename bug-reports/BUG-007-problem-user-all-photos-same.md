@@ -6,7 +6,7 @@
 
 **User:** problem_user
 
-**Environment:** Chrome 120, Windows 11, saucedemo.com
+**Environment:** Yandex Browser 150, Windows 10 22H2, saucedemo.com
 
 ## Description
 При логине под `problem_user` **все товары** отображаются с **одним и тем же фото** — собака с мячиком. Хотя названия товаров разные (Backpack, Bike Light, T-Shirt и т.д.), картинки одинаковые.
