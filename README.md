@@ -37,6 +37,41 @@ SauceDemo — учебный интернет-магазин, созданный
 - Оформление заказа
 - Валидация формы
 
+## 🔗 Связь ручных тест-кейсов с автотестами
+
+Часть ручных тест-кейсов автоматизирована в отдельном репозитории
+[ui-automation-playwright](https://github.com/oklatri/ui-automation-playwright)
+(Playwright + JavaScript + POM + GitHub Actions).
+
+| Manual TC | Название | Автотест (Playwright) | Статус |
+|---|---|---|---|
+| TC-001 | Логин standard_user | `login.spec.js` → `TC-001: Login with standard_user` | ✅ automated |
+| TC-002 | Логин locked_out_user | `login.spec.js` → `TC-002: Login with locked_out_user` | ✅ automated |
+| TC-003 | Логин problem_user | — | ⚠️ manual only |
+| TC-004 | Логин performance_glitch_user | — | ⚠️ manual only |
+| TC-005 | Логин error_user | — | ⚠️ manual only |
+| TC-006 | Логин visual_user | — | ⚠️ manual only |
+| TC-007 | Добавление товара в корзину | `cart.spec.js` → `TC-007: Add one item to cart` | ✅ automated |
+| TC-008 | Удаление товара из корзины | `cart.spec.js` → `TC-008: Remove item from cart` | ✅ automated |
+| TC-009 | Счётчик корзины (3 товара) | `cart.spec.js` → `TC-009: Add multiple items to cart` | ✅ automated |
+| TC-010 | Сортировка по цене (low → high) | — | ⚠️ manual only |
+| TC-011 | Сортировка по имени (Z → A) | — | ⚠️ manual only |
+| TC-012 | Checkout с пустой корзиной | — | ⚠️ manual only |
+| TC-013 | Checkout с товаром — успешный заказ | — | ⚠️ manual only |
+| TC-014 | Валидация First Name (пустое) | — | ⚠️ manual only |
+| TC-015 | Logout | — | ⚠️ manual only |
+| TC-016 | Корзина отображает добавленные товары | `cart.spec.js` → `TC-016: Cart shows added items` | ✅ automated |
+| TC-017 | Логин с невалидными данными | `login.spec.js` → `TC-017: Login with invalid credentials` | ✅ automated |
+| TC-018 | Логин с пустыми полями | `login.spec.js` → `TC-018: Login with empty fields` | ✅ automated |
+
+**Итого:** 8 из 18 TC покрыты автотестами (44%), остальные 10 — только ручные.
+
+### 📌 Кандидаты на автоматизацию (следующая итерация)
+- TC-010, TC-011 — сортировка (стабильные, высокая ценность)
+- TC-012 — негативный checkout (важный кейс)
+- TC-013, TC-014 — позитивный checkout и валидация формы (ядро бизнес-логики)
+- TC-015 — logout (простой, быстрый)
+
 ## Результаты
 - 18 тест-кейсов
 - 12 баг-репортов
